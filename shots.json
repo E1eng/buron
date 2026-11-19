@@ -1,0 +1,6 @@
+[
+  { "name": "1-start.jpg", "url": "?shot=start&seed=7", "width": 1280, "height": 720 },
+  { "name": "2-play.jpg", "url": "?shot=play&seed=7", "width": 1280, "height": 720 },
+  { "name": "3-chase.jpg", "url": "?shot=chase&seed=7", "width": 1280, "height": 720 },
+  { "name": "4-end.jpg", "url": "?shot=end&seed=7", "width": 1280, "height": 720 }
+]
